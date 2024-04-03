@@ -1,0 +1,7 @@
+{
+  "homepage": "https://dhanashrilk.github.io/react-gh-pages",
+  "dependencies": {
+    "build": "^0.1.4",
+    "gh-pages": "^6.1.1"
+  }
+}
