@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "homepage": "https://gitname.github.io/react-gh-pages",
+    "gh-pages": "^6.1.1"
+  }
+}
